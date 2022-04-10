@@ -8,10 +8,15 @@
 **3.** 使用时，请先运行以下命令
 
 ``sudo su``
-``chmod +X Proxy-Ubuntu.sh``
-``chmod 777 Proxy-Ubuntu.sh``
+``chmod +X Proxy-Ubuntu-AlphaS.sh``
+``chmod 777 Proxy-Ubuntu-AlphaS.sh``
+或者
 
-**4.** 该脚本处于AlphaS（测试阶段）出现问题请立刻在这里留言。
+``sudo su``
+``chmod +X Proxy-Ubuntu-BetaS.sh``
+``chmod 777 Proxy-Ubuntu-BetaS.sh``
+
+**4.** 该脚本处于BetaS（测试阶段）出现问题请立刻在这里留言。
 
 **5.** 内附3个代理请轮流使用。每天上传下载数据最好不要超过2G，否则可能有被查水表的风险。
 
